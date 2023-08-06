@@ -1,0 +1,7 @@
+<Response>
+    <Say>The ID you provide is incorrect.</Say>
+    <GetDigits timeout="30" finishOnKey="#" callbackUrl="https://nazif425.jprq.live/pghd_handler">
+        <Say>Please enter your ID followed by the hash key to continue</Say>
+    </GetDigits>
+    <Reject/>
+</Response>

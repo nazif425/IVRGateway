@@ -1,0 +1,39 @@
+# Flask related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyc.*
+*.pyo.*
+*.pyd.*
+*.pyz.*
+*.pyw.*
+
+# Python virtual environment
+venv/
+env/
+env.bak/
+*.pyproj
+*.pyproj.*
+*.python-version
+
+# IDE and editor-specific files (optional, customize as per your IDE/editor)
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+*.tmproj
+*.esproj
+*.pydevproject
+
+# Compiled Python files (optional, depending on your project structure)
+*.pyc
+*.pyo
+*.pyd
+
+# System-specific files (optional, customize as per your OS)
+.DS_Store
+Thumbs.db
